@@ -21,8 +21,10 @@ public class Users
         password = pW;
     }
 
-    public Users() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    //to change body of generated methods, choose tools | templates
+    public Users() 
+    {
+        throw new UnsupportedOperationException("Not supported yet."); 
     }
     
     //creating constructors so we are able to get the username and the password
